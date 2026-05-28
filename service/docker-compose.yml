@@ -1,0 +1,8 @@
+services:
+  football-analytics:
+    build: .
+    container_name: service
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
