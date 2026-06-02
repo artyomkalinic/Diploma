@@ -1,0 +1,862 @@
+﻿Friday, March 13, 2026
+Borussia M.Gladbach
+20
+1.080.63
+St. Pauli
+Saturday, March 14, 2026
+Bayer Leverkusen
+11
+2.651.27
+Bayern MunichBorussia Dortmund
+20
+2.490.76
+AugsburgEintracht Frankfurt
+10
+0.730.14
+FC HeidenheimHoffenheim
+11
+2.240.22
+WolfsburgHamburger SV
+11
+0.560.98
+FC Cologne
+Sunday, March 15, 2026
+Werder Bremen
+02
+0.892.06
+Mainz 05Freiburg
+01
+1.351.00
+Union BerlinVfB Stuttgart
+10
+1.931.12
+RasenBallsport Leipzig
+Wednesday, March 04, 2026
+Hamburger SV
+01
+1.292.68
+Bayer Leverkusen
+Friday, March 06, 2026
+Bayern Munich
+41
+3.121.22
+Borussia M.Gladbach
+Saturday, March 07, 2026
+Freiburg
+33
+2.582.19
+Bayer LeverkusenFC Heidenheim
+24
+0.972.79
+HoffenheimMainz 05
+22
+3.530.92
+VfB StuttgartRasenBallsport Leipzig
+21
+2.193.67
+AugsburgWolfsburg
+12
+2.471.80
+Hamburger SVFC Cologne
+12
+0.961.96
+Borussia Dortmund
+Sunday, March 08, 2026
+St. Pauli
+00
+0.470.45
+Eintracht FrankfurtUnion Berlin
+14
+1.132.24
+Werder Bremen
+Friday, February 27, 2026
+Augsburg
+20
+1.560.49
+FC Cologne
+Saturday, February 28, 2026
+Bayer Leverkusen
+11
+1.950.97
+Mainz 05Borussia M.Gladbach
+10
+2.560.14
+Union BerlinHoffenheim
+01
+2.570.95
+St. PauliWerder Bremen
+20
+3.481.71
+FC HeidenheimBorussia Dortmund
+23
+1.401.89
+Bayern Munich
+Sunday, March 01, 2026
+VfB Stuttgart
+40
+2.950.87
+WolfsburgEintracht Frankfurt
+20
+1.670.64
+FreiburgHamburger SV
+12
+0.822.29
+RasenBallsport Leipzig
+Friday, February 20, 2026
+Mainz 05
+11
+1.750.82
+Hamburger SV
+Saturday, February 21, 2026
+Bayern Munich
+32
+2.842.29
+Eintracht FrankfurtFC Cologne
+22
+1.121.82
+HoffenheimUnion Berlin
+10
+0.761.20
+Bayer LeverkusenWolfsburg
+23
+2.181.56
+AugsburgRasenBallsport Leipzig
+22
+3.511.35
+Borussia Dortmund
+Sunday, February 22, 2026
+Freiburg
+21
+1.291.03
+Borussia M.GladbachSt. Pauli
+21
+0.261.61
+Werder BremenFC Heidenheim
+33
+2.222.28
+VfB Stuttgart
+Friday, February 13, 2026
+Borussia Dortmund
+40
+1.811.67
+Mainz 05
+Saturday, February 14, 2026
+Bayer Leverkusen
+40
+2.260.65
+St. PauliEintracht Frankfurt
+30
+1.991.03
+Borussia M.GladbachHamburger SV
+32
+2.202.19
+Union BerlinHoffenheim
+30
+1.900.74
+FreiburgWerder Bremen
+03
+0.781.88
+Bayern MunichVfB Stuttgart
+31
+2.561.13
+FC Cologne
+Sunday, February 15, 2026
+Augsburg
+10
+1.880.70
+FC HeidenheimRasenBallsport Leipzig
+22
+2.510.69
+Wolfsburg
+Friday, February 06, 2026
+Union Berlin
+11
+1.270.30
+Eintracht Frankfurt
+Saturday, February 07, 2026
+Freiburg
+10
+0.361.12
+Werder BremenFC Heidenheim
+02
+1.051.55
+Hamburger SVMainz 05
+20
+3.011.36
+AugsburgSt. Pauli
+21
+1.660.91
+VfB StuttgartWolfsburg
+12
+2.031.71
+Borussia DortmundBorussia M.Gladbach
+11
+0.780.74
+Bayer Leverkusen
+Sunday, February 08, 2026
+FC Cologne
+12
+1.123.06
+RasenBallsport LeipzigBayern Munich
+51
+6.382.67
+Hoffenheim
+Tuesday, January 27, 2026
+St. Pauli
+11
+1.332.06
+RasenBallsport LeipzigWerder Bremen
+02
+1.430.57
+Hoffenheim
+Friday, January 30, 2026
+FC Cologne
+10
+1.441.35
+Wolfsburg
+Saturday, January 31, 2026
+Augsburg
+21
+2.122.89
+St. PauliEintracht Frankfurt
+13
+1.321.53
+Bayer LeverkusenHoffenheim
+31
+1.511.23
+Union BerlinRasenBallsport Leipzig
+12
+2.092.58
+Mainz 05Werder Bremen
+11
+0.991.26
+Borussia M.GladbachHamburger SV
+22
+2.642.29
+Bayern Munich
+Sunday, February 01, 2026
+VfB Stuttgart
+10
+2.950.94
+FreiburgBorussia Dortmund
+32
+4.143.04
+FC Heidenheim
+Friday, January 23, 2026
+St. Pauli
+00
+0.310.33
+Hamburger SV
+Saturday, January 24, 2026
+Bayer Leverkusen
+10
+2.520.67
+Werder BremenBayern Munich
+12
+2.311.25
+AugsburgEintracht Frankfurt
+13
+0.831.63
+HoffenheimFC Heidenheim
+03
+0.992.08
+RasenBallsport LeipzigMainz 05
+31
+4.341.09
+WolfsburgUnion Berlin
+03
+0.992.27
+Borussia Dortmund
+Sunday, January 25, 2026
+Borussia M.Gladbach
+03
+1.222.73
+VfB StuttgartFreiburg
+21
+2.571.69
+FC Cologne
+Tuesday, January 13, 2026
+VfB Stuttgart
+32
+3.540.90
+Eintracht FrankfurtBorussia Dortmund
+30
+2.320.40
+Werder BremenMainz 05
+21
+1.961.24
+FC Heidenheim
+Wednesday, January 14, 2026
+Wolfsburg
+21
+1.781.21
+St. PauliFC Cologne
+13
+0.712.12
+Bayern MunichHoffenheim
+51
+4.380.83
+Borussia M.GladbachRasenBallsport Leipzig
+20
+2.800.15
+Freiburg
+Thursday, January 15, 2026
+Augsburg
+11
+0.561.74
+Union Berlin
+Friday, January 16, 2026
+Werder Bremen
+33
+2.101.21
+Eintracht Frankfurt
+Saturday, January 17, 2026
+Borussia Dortmund
+32
+2.550.53
+St. PauliFC Cologne
+21
+2.411.91
+Mainz 05Hamburger SV
+00
+1.260.58
+Borussia M.GladbachHoffenheim
+10
+2.121.27
+Bayer LeverkusenWolfsburg
+11
+1.080.99
+FC HeidenheimRasenBallsport Leipzig
+15
+2.874.65
+Bayern Munich
+Sunday, January 18, 2026
+VfB Stuttgart
+11
+2.201.89
+Union BerlinAugsburg
+22
+0.991.59
+Freiburg
+Friday, January 09, 2026
+Eintracht Frankfurt
+33
+1.662.30
+Borussia Dortmund
+Saturday, January 10, 2026
+Freiburg
+21
+2.940.85
+Hamburger SVFC Heidenheim
+22
+2.152.76
+FC CologneUnion Berlin
+22
+3.651.56
+Mainz 05Bayer Leverkusen
+14
+1.982.69
+VfB Stuttgart
+Sunday, January 11, 2026
+Borussia M.Gladbach
+40
+3.571.58
+AugsburgBayern Munich
+81
+3.551.09
+Wolfsburg
+Friday, December 19, 2025
+Borussia Dortmund
+20
+1.650.22
+Borussia M.Gladbach
+Saturday, December 20, 2025
+Augsburg
+00
+1.490.91
+Werder BremenFC Cologne
+01
+0.681.47
+Union BerlinHamburger SV
+11
+1.101.09
+Eintracht FrankfurtVfB Stuttgart
+00
+1.460.15
+HoffenheimWolfsburg
+34
+1.312.66
+FreiburgRasenBallsport Leipzig
+13
+1.942.70
+Bayer Leverkusen
+Sunday, December 21, 2025
+Mainz 05
+00
+1.870.23
+St. PauliFC Heidenheim
+04
+1.493.37
+Bayern Munich
+Friday, December 12, 2025
+Union Berlin
+31
+1.480.50
+RasenBallsport Leipzig
+Saturday, December 13, 2025
+Borussia M.Gladbach
+13
+0.622.72
+WolfsburgEintracht Frankfurt
+10
+1.520.66
+AugsburgHoffenheim
+41
+2.491.41
+Hamburger SVSt. Pauli
+21
+1.001.89
+FC HeidenheimBayer Leverkusen
+20
+2.290.44
+FC Cologne
+Sunday, December 14, 2025
+Freiburg
+11
+1.111.47
+Borussia DortmundBayern Munich
+22
+4.680.80
+Mainz 05Werder Bremen
+04
+0.612.05
+VfB Stuttgart
+Friday, December 05, 2025
+Mainz 05
+01
+1.091.90
+Borussia M.Gladbach
+Saturday, December 06, 2025
+VfB Stuttgart
+05
+0.734.08
+Bayern MunichWolfsburg
+31
+0.932.02
+Union BerlinAugsburg
+20
+2.141.42
+Bayer LeverkusenFC Cologne
+11
+1.900.14
+St. PauliFC Heidenheim
+21
+2.670.80
+FreiburgRasenBallsport Leipzig
+60
+3.640.47
+Eintracht Frankfurt
+Sunday, December 07, 2025
+Hamburger SV
+32
+1.581.17
+Werder BremenBorussia Dortmund
+20
+1.101.42
+Hoffenheim
+Friday, November 28, 2025
+Borussia M.Gladbach
+00
+0.391.09
+RasenBallsport Leipzig
+Saturday, November 29, 2025
+Bayern Munich
+31
+2.540.74
+St. PauliHoffenheim
+30
+1.800.66
+AugsburgUnion Berlin
+12
+0.940.52
+FC HeidenheimWerder Bremen
+11
+1.541.18
+FC CologneBayer Leverkusen
+12
+1.081.16
+Borussia Dortmund
+Sunday, November 30, 2025
+Hamburger SV
+21
+1.211.11
+VfB StuttgartEintracht Frankfurt
+11
+1.661.61
+WolfsburgFreiburg
+40
+4.160.05
+Mainz 05
+Friday, November 21, 2025
+Mainz 05
+11
+2.891.54
+Hoffenheim
+Saturday, November 22, 2025
+Augsburg
+10
+1.621.55
+Hamburger SVBayern Munich
+62
+3.140.52
+FreiburgBorussia Dortmund
+33
+3.151.81
+VfB StuttgartFC Heidenheim
+03
+0.362.80
+Borussia M.GladbachWolfsburg
+13
+2.081.59
+Bayer LeverkusenFC Cologne
+34
+1.392.45
+Eintracht Frankfurt
+Sunday, November 23, 2025
+RasenBallsport Leipzig
+20
+2.430.77
+Werder BremenSt. Pauli
+01
+0.570.40
+Union Berlin
+Friday, November 07, 2025
+Werder Bremen
+21
+1.690.68
+Wolfsburg
+Saturday, November 08, 2025
+Bayer Leverkusen
+60
+3.900.06
+FC HeidenheimHamburger SV
+11
+0.421.43
+Borussia DortmundHoffenheim
+31
+1.921.56
+RasenBallsport LeipzigUnion Berlin
+22
+1.031.34
+Bayern MunichBorussia M.Gladbach
+31
+2.462.16
+FC Cologne
+Sunday, November 09, 2025
+Freiburg
+21
+1.670.64
+St. PauliVfB Stuttgart
+32
+2.451.90
+AugsburgEintracht Frankfurt
+10
+1.780.12
+Mainz 05
+Friday, October 31, 2025
+Augsburg
+01
+0.970.59
+Borussia Dortmund
+Saturday, November 01, 2025
+FC Heidenheim
+11
+0.831.22
+Eintracht FrankfurtMainz 05
+11
+1.900.88
+Werder BremenRasenBallsport Leipzig
+31
+1.731.07
+VfB StuttgartSt. Pauli
+04
+0.803.63
+Borussia M.GladbachUnion Berlin
+00
+1.351.17
+FreiburgBayern Munich
+30
+2.280.38
+Bayer Leverkusen
+Sunday, November 02, 2025
+FC Cologne
+41
+3.871.19
+Hamburger SVWolfsburg
+23
+1.401.74
+Hoffenheim
+Friday, October 24, 2025
+Werder Bremen
+10
+1.140.49
+Union Berlin
+Saturday, October 25, 2025
+Augsburg
+06
+0.642.69
+RasenBallsport LeipzigBorussia M.Gladbach
+03
+0.762.65
+Bayern MunichEintracht Frankfurt
+20
+2.430.52
+St. PauliHamburger SV
+01
+2.410.70
+WolfsburgHoffenheim
+31
+2.430.90
+FC HeidenheimBorussia Dortmund
+10
+2.090.71
+FC Cologne
+Sunday, October 26, 2025
+Bayer Leverkusen
+20
+2.470.54
+FreiburgVfB Stuttgart
+21
+1.671.41
+Mainz 05
+Friday, October 17, 2025
+Union Berlin
+31
+1.530.63
+Borussia M.Gladbach
+Saturday, October 18, 2025
+FC Cologne
+11
+0.521.12
+AugsburgFC Heidenheim
+22
+3.081.86
+Werder BremenMainz 05
+34
+1.634.43
+Bayer LeverkusenRasenBallsport Leipzig
+21
+1.161.29
+Hamburger SVWolfsburg
+03
+0.392.39
+VfB StuttgartBayern Munich
+21
+2.821.41
+Borussia Dortmund
+Sunday, October 19, 2025
+Freiburg
+22
+1.130.77
+Eintracht FrankfurtSt. Pauli
+03
+0.871.79
+Hoffenheim
+Friday, October 03, 2025
+Hoffenheim
+01
+1.421.31
+FC Cologne
+Saturday, October 04, 2025
+Bayer Leverkusen
+20
+3.361.20
+Union BerlinBorussia Dortmund
+11
+0.671.14
+RasenBallsport LeipzigAugsburg
+31
+1.751.23
+WolfsburgWerder Bremen
+10
+1.780.91
+St. PauliEintracht Frankfurt
+03
+0.562.23
+Bayern Munich
+Sunday, October 05, 2025
+VfB Stuttgart
+10
+1.110.29
+FC HeidenheimHamburger SV
+40
+1.660.59
+Mainz 05Borussia M.Gladbach
+00
+0.470.69
+Freiburg
+Friday, September 26, 2025
+Bayern Munich
+40
+4.320.30
+Werder Bremen
+Saturday, September 27, 2025
+FC Heidenheim
+21
+1.790.62
+AugsburgMainz 05
+02
+0.531.76
+Borussia DortmundSt. Pauli
+12
+0.811.29
+Bayer LeverkusenWolfsburg
+01
+2.602.61
+RasenBallsport LeipzigBorussia M.Gladbach
+46
+2.133.79
+Eintracht Frankfurt
+Sunday, September 28, 2025
+Freiburg
+11
+1.262.24
+HoffenheimFC Cologne
+12
+1.082.21
+VfB StuttgartUnion Berlin
+00
+1.541.11
+Hamburger SV
+Friday, September 19, 2025
+VfB Stuttgart
+20
+2.791.06
+St. Pauli
+Saturday, September 20, 2025
+Werder Bremen
+03
+1.272.36
+FreiburgAugsburg
+14
+0.872.57
+Mainz 05Hamburger SV
+21
+3.322.64
+FC HeidenheimHoffenheim
+14
+1.042.71
+Bayern MunichRasenBallsport Leipzig
+31
+3.801.39
+FC Cologne
+Sunday, September 21, 2025
+Eintracht Frankfurt
+34
+1.762.23
+Union BerlinBayer Leverkusen
+11
+1.951.30
+Borussia M.GladbachBorussia Dortmund
+10
+1.250.98
+Wolfsburg
+Friday, September 12, 2025
+Bayer Leverkusen
+31
+2.310.79
+Eintracht Frankfurt
+Saturday, September 13, 2025
+Freiburg
+31
+1.680.55
+VfB StuttgartFC Heidenheim
+02
+0.302.85
+Borussia DortmundMainz 05
+01
+0.771.50
+RasenBallsport LeipzigWolfsburg
+33
+1.801.73
+FC CologneUnion Berlin
+24
+3.083.34
+HoffenheimBayern Munich
+50
+3.040.56
+Hamburger SV
+Sunday, September 14, 2025
+St. Pauli
+21
+1.950.93
+AugsburgBorussia M.Gladbach
+04
+1.592.25
+Werder Bremen
+Friday, August 29, 2025
+Hamburger SV
+02
+0.741.85
+St. Pauli
+Saturday, August 30, 2025
+Hoffenheim
+13
+1.281.82
+Eintracht FrankfurtRasenBallsport Leipzig
+20
+3.300.97
+FC HeidenheimWerder Bremen
+33
+2.332.04
+Bayer LeverkusenVfB Stuttgart
+10
+0.931.61
+Borussia M.GladbachAugsburg
+23
+0.513.38
+Bayern Munich
+Sunday, August 31, 2025
+Wolfsburg
+11
+0.621.81
+Mainz 05Borussia Dortmund
+30
+1.830.97
+Union BerlinFC Cologne
+41
+1.840.93
+Freiburg
+Friday, August 22, 2025
+Bayern Munich
+60
+3.300.52
+RasenBallsport Leipzig
+Saturday, August 23, 2025
+FC Heidenheim
+13
+0.782.58
+WolfsburgBayer Leverkusen
+12
+1.050.51
+HoffenheimUnion Berlin
+21
+0.531.80
+VfB StuttgartEintracht Frankfurt
+41
+3.110.59
+Werder BremenFreiburg
+13
+2.271.30
+AugsburgSt. Pauli
+33
+1.472.10
+Borussia Dortmund
+Sunday, August 24, 2025
+Mainz 05
+01
+1.321.65
+FC CologneBorussia M.Gladbach
+00
+1.020.29
+Hamburger SV
